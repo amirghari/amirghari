@@ -4,7 +4,7 @@ Hi there, My name is Amir Ghari
 Software Developer 
 ------------------
 
-* 📖  I'm studying [Software Engineering](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en)
+* 📖   I'm studying [Software Engineering](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en)
 * 🌍  I'm based in Espoo, Finland
 * 🖥️  See my portfolio at [https://amirghari.com](http://amirghari.com)
 * ✉️  You can contact me at [ghariamir97@gmail.com](mailto:ghariamir97@gmail.com)
