@@ -23,6 +23,7 @@ Software Developer
 
 
 <details>
+  <summary>More</summary>
   <h3>Github Stats 📊</h3>
 
 <div id="githubStats" style="display: none; align-items: center; justify-content: space-between; margin-top: 10px;">
