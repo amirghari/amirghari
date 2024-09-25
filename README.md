@@ -21,9 +21,8 @@ Software Developer
 
 
 
-<button onclick="document.getElementById('githubStats').style.display='flex'">
   <b>My GitHub Stats</b>
-</button>
+
 
 <div id="githubStats" style="display: none; align-items: center; justify-content: space-between; margin-top: 10px;">
   <a href="https://github.com/amirghari" align="left">
