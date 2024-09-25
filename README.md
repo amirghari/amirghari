@@ -1,4 +1,4 @@
-Hi, My name is Amir Ghari
+Hi there, My name is Amir Ghari
 ===========================
 
 Software Developer 
