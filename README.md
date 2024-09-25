@@ -1,9 +1,10 @@
 Hi, My name is Amir Ghari
 ===========================
 
-Software Developer
+Software Developer 
 ------------------
 
+* 📖 I'm studying [Software Engineering](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) at [Metropolia University](https://www.metropolia.fi/en) in Helsinki
 * 🌍  I'm based in Espoo, Finland
 * 🖥️  See my portfolio at [https://amirghari.com](http://amirghari.com)
 * ✉️  You can contact me at [ghariamir97@gmail.com](mailto:ghariamir97@gmail.com)
@@ -21,7 +22,7 @@ Software Developer
 
 
 
-  <b>My GitHub Stats</b>
+### Github Stats
 
 
 <div id="githubStats" style="display: none; align-items: center; justify-content: space-between; margin-top: 10px;">
