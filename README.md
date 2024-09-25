@@ -23,7 +23,7 @@ Software Developer
 
 
 <details>
-  <summary style="font-size: 24px; font-weight: bold;">Github Stats 📊</summary>
+  <h3>Github Stats 📊</h3>
 
 <div id="githubStats" style="display: none; align-items: center; justify-content: space-between; margin-top: 10px;">
   <a href="https://github.com/amirghari" align="left">
