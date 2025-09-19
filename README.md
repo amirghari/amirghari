@@ -19,12 +19,4 @@ Software Developer
 
 
 
-<details><summary><h3>Github Stats 📊</h3></summary>
-<div id="githubStats" style="display: flex; justify-content: center; margin-top: 10px; width: 100%;">
-  <a href="https://github.com/amirghari" style="width: 70%;height: 70%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirghari&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-    style="width: 100%; max-width: none; height: auto; display: block; margin: auto;" />
-  </a>
-</div>
-</details>
+
