@@ -3,7 +3,6 @@ Software Developer
 
 * 📖  I'm a [Software Engineering](https://www.metropolia.fi/en/academics/bachelors-degrees/information-technology) graduate at [Metropolia University](https://www.metropolia.fi/en)
 * 🌍  I'm based in Espoo, Finland
-* 🖥️  See my portfolio at [https://amirghari.com](http://amirghari.com)
 * ✉️  You can contact me at [ghariamir97@gmail.com](mailto:ghariamir97@gmail.com)
 
 ### Skills
