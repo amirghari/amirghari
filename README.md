@@ -2,7 +2,6 @@
 
 * 🎓 BEng in Information Technology from [Metropolia University of Applied Sciences](https://www.metropolia.fi/en) (GPA 4.69/5.0, 240 ECTS)
 * 🌍 Based in Helsinki, Finland
-* 🌐 [amirghari.com](https://amirghari.com)
 * ✉️ [ghariamir97@gmail.com](mailto:ghariamir97@gmail.com)
 
 ### Skills
